@@ -1,0 +1,221 @@
+Term Number	Similarity Score	Num Genes	Curated name
+147	7.346	2	Mon1-Ccz1 complex
+148	7.234	2	Atg1-Atg13 complex
+149	7.212	2	Hog signaling MAPKKKs
+151	7.159	2	AtgO:151
+150	7.159	2	retromer complex cargo selection subunits
+152	7.049	2	GARP complex  subunits
+79	7.031	4	AtgO:79
+153	7.009	2	Snf1 kinase complex, alpha and beta subunits
+154	6.921	2	Golgi-localized, ?-adaptin ear homology, Arf-binding proteins
+155	6.909	2	ADP ribosylation factors involved in Golgi vesicular trafficking
+157	6.87	2	MARK homolog kinases
+170	6.867	2	Gtr1-Gtr2 GTPase complex
+159	6.851	2	TORC2 downstream effector kinases
+245	6.844	2	Intraluminal vesicle neck formation
+160	6.823	2	Pho85-Pho80 CDK-cyclin complex
+113	6.817	3	AtgO:113
+161	6.812	2	V-ATPase, V0 domain subunits
+246	6.799	2	Atg8 activating complex
+138	6.754	2	Ubp3-Bre5 ubiquitin protease complex
+164	6.748	2	PDK1 homolog kinases
+163	6.747	2	AtgO:163
+165	6.734	2	Ste11 kinase complex, MAPK signaling
+158	6.727	2	AtgO:158
+240	6.718	3	Atg12 conjugation system
+112	6.708	3	Q-snares
+167	6.693	2	plasma membrane-associated casein kinase I-like proteins
+169	6.677	2	regulation of G1/S phase transition
+133	6.677	2	transcriptional response to iron depletion
+111	6.675	3	vacuolar transporter chaperone complex, cytosolic facing components
+132	6.655	2	Wsc family cell wall sensors
+130	6.644	2	guanine nucleotide exchange factors for ARFs
+128	6.636	2	nuclear side of nucleus-vacuole junction
+134	6.618	2	14-3-3 proteins
+127	6.611	2	AtgO:127
+52	6.6	6	HOPS complex
+135	6.592	2	eIF2B subunits
+136	6.579	2	negative regulation of Hog1 signaling
+139	6.542	2	AtgO:139
+140	6.539	2	Vma12/Vma22 assembly complex
+243	6.521	2	TOR complex catalytic subunits
+141	6.521	2	Hog1 kinase and the Rck2 kinase substrate
+69	6.516	4	vacuolar docking and fusion
+143	6.481	2	Mid2 subfamily of cell wall integrity sensors
+110	6.478	3	mitotic exit network kinases
+183	6.452	2	183
+109	6.449	3	protein A kinases
+108	6.442	3	GET complex
+166	6.429	2	Ypt1/Sec4 family Rab GTPases
+145	6.427	2	casein kinase 2 catalytic subunits
+198	6.392	2	piccolo NuA4 histone acetyltransferase complex subunits
+105	6.382	3	Snf1 kinase subunits and regulator
+201	6.365	2	Ypt31/Ypt32 family Rab GTPases
+70	6.359	4	PI3P kinase complex II
+202	6.358	2	V-ATPase nucleotide binding V1 subunits
+203	6.296	2	PI4P kinases
+72	6.207	4	calmodulin-binding motor transport
+102	6.198	3	DNA damage checkpoint kinase effectors
+107	6.194	3	septin-associated kinases
+106	6.192	3	negative regulation of sterol import by negative regulation of transcription from RNA polymerase II promoter
+100	6.188	3	ADP ribosylation factors
+68	6.167	4	vacuolar transporter chaperone complex
+209	6.149	2	actin and nucleation factor
+58	6.116	5	AAA ATPases and specificity factors
+46	6.091	8	conserved oligomeric golgi (COG) complex
+213	6.077	2	Atg14-Vps30 subcomplex of PI3P kinase complex I
+101	6.035	3	AtgO:101
+44	6.03	8	TRAPP Complex
+214	6.03	2	AtgO:214
+250	5.999	2	AtgO:250
+215	5.998	2	AtgO:215
+88	5.978	3	actin-regulating kinase family
+87	5.953	3	golgi recruitment of Arl1
+33	5.943	12	HOPS/CORVET complexes and localization
+217	5.939	2	chromosomal passenger complex subunits
+78	5.908	2	AtgO:78
+171	5.907	2	AtgO:171
+247	5.902	2	engulfment of selective autophagy cargos
+173	5.901	2	AtgO:173
+175	5.888	2	Sec7-Arf1 golgi vesicle transport regulation complex
+176	5.873	2	regulation of polyamine uptake
+177	5.865	2	CDK9-related cyclin-dependent kinases
+73	5.853	4	AtgO:73
+179	5.841	2	general amino acid control pathway
+180	5.836	2	ankyrin repeat-containing, palmitoyl transferase proteins 
+89	5.816	3	AtgO:89
+30	5.752	5	autophagy inhibitors / nutrient sensing
+184	5.752	2	Rho1 GTPase and effector
+186	5.748	2	condensin recruitment to replication fork blockage site
+37	5.713	8	cell cycle machinery
+91	5.661	3	glycogen synthase kinase 3 homologs
+96	5.638	3	nucleus-vacuole junction
+237	5.625	4	EGO complex subunits and Pib2
+187	5.591	2	AtgO:187
+226	5.584	23	MAPK signaling and regulators
+40	5.58	9	40
+97	5.534	3	bud neck proteins
+19	5.515	42	TOR pathways
+191	5.495	2	191
+74	5.487	4	components of HOG sensing pathway
+35	5.447	16	core machinery of autophagy
+114	5.432	3	kinases, unknown relationship
+116	5.411	2	AtgO:116
+26	5.37	23	cell cycle and Snf1 signaling pathway
+231	5.37	8	CAMK/CMGC kinases
+124	5.352	3	AtgO:124
+120	5.327	3	AtgO:120
+194	5.321	2	MAP kinase and a MAPK inactivator (no published relationship)
+181	5.319	2	Regulators of membrane trafficking
+27	5.301	24	late secretory pathway (vesicle trafficking, docking and fusion)
+232	5.296	7	232
+121	5.296	4	membrane fusion
+216	5.256	2	spore morphogenesis regulation
+115	5.242	3	eIF2B subunits and regulator
+210	5.238	2	AtgO:210
+15	5.212	60	MAPK signaling and nutrient-sensing response
+207	5.174	2	AtgO:207
+63	5.173	5	nucleosome acetyltransferase of H4 components and actin related proteins
+76	5.159	4	AtgO:76
+75	5.158	4	AtgO:75
+218	5.153	2	palmitoylated vacuolar membrane proteins
+234	5.122	6	regulation of Msn2/4 transcription
+126	5.118	3	casein kinase I-like proteins
+41	5.11	10	Msn2/4-mediated yeast stress response and regulation
+20	5.103	125	late secretory pathway / vacuolar membrane dynamics, cell growth and stress responses
+64	5.095	5	AtgO:64
+200	5.072	2	AtgO:200
+199	5.07	2	AtgO:199
+54	5.034	10	vacuolar H+-ATPase and endosome to golgi traffic
+131	4.96	2	promotion of Rho1-dependent polarized cell growth
+146	4.956	2	staurosporine resistance pathway
+168	4.946	2	AtgO:168
+18	4.872	37	vesicle transport machinery of ER-EE-MVB-vacuole and autophagy
+11	4.855	184	membrane trafficking, cell growth and stress responses II
+48	4.819	5	vacuolar trafficking genes, unknown subgroup
+117	4.819	3	AtgO:117
+156	4.693	2	AtgO:156
+77	4.673	6	EGO complex subunits + Pib2, Pep7
+60	4.673	8	ARFs and ARF binding proteins
+14	4.673	107	vesicle (especially golgi) and organelle traffic / cell cycle and stress response
+122	4.635	3	AtgO:122
+196	4.619	2	AtgO:196
+118	4.609	3	salt tolerance kinases
+239	4.598	4	transcription factors, unknown relationship
+85	4.566	4	AtgO:85
+185	4.458	4	transport of Atg19-receptor cargos
+205	4.437	2	AtgO:205
+53	4.401	6	AtgO:53
+208	4.321	2	AtgO:208
+9	4.313	231	membrane trafficking, cell growth and stress responses I
+242	4.26	3	AtgO:242
+178	4.26	2	AtgO:178
+80	4.185	4	AtgO:80
+49	4.175	6	AtgO:49
+32	4.127	29	ubiquitin related process and cytoskeletal functions
+228	4.127	14	membrane protein localization and insertion / stress response
+8	4.059	131	8
+65	4.056	5	AtgO:65
+55	4.056	6	AtgO:55
+43	4.04	9	AtgO:43
+193	4.027	2	AtgO:193
+189	4.024	2	AtgO:189
+188	4.023	2	AtgO:188
+244	4.011	2	AtgO:244
+95	3.99	3	AtgO:95
+119	3.963	3	AtgO:119
+92	3.93	3	AtgO:92
+174	3.926	2	AtgO:174
+172	3.873	2	AtgO:172
+206	3.84	2	AtgO:206
+212	3.828	2	AtgO:212
+236	3.8	5	AtgO:236
+220	3.8	319	autophagy and related processes
+211	3.8	2	AtgO:211
+66	3.798	5	AtgO:66
+84	3.784	4	AtgO:84
+94	3.743	3	AtgO:94
+99	3.667	3	AtgO:99
+204	3.581	3	AtgO:204
+103	3.533	3	AtgO:103
+104	3.532	3	AtgO:104
+31	3.514	7	AtgO:31
+12	3.492	72	AtgO:12
+17	3.454	49	AtgO:17
+195	3.436	2	AtgO:195
+249	3.422	2	AtgO:249
+144	3.417	2	AtgO:144
+223	3.382	64	AtgO:223
+142	3.375	2	AtgO:142
+137	3.312	2	AtgO:137
+248	3.279	2	AtgO:248
+221	3.257	134	AtgO:221
+224	3.254	53	AtgO:224
+219	2.892	364	AtgO:219
+86	2.784	4	AtgO:86
+83	2.717	4	AtgO:83
+233	2.699	7	AtgO:233
+5	2.689	408	AtgO:5
+81	2.681	4	AtgO:81
+235	2.664	5	AtgO:235
+39	2.663	9	AtgO:39
+59	2.64	5	AtgO:59
+50	2.613	7	AtgO:50
+229	2.591	12	AtgO:229
+42	2.57	9	AtgO:42
+238	2.569	4	AtgO:238
+241	2.563	3	AtgO:241
+4	2.292	463	AtgO:4
+230	2.292	11	AtgO:230
+10	1.973	141	AtgO:10
+3	1.773	479	AtgO:3
+225	1.564	25	AtgO:225
+222	1.536	73	AtgO:222
+227	1.475	14	AtgO:227
+34	1.469	12	AtgO:34
+29	1.463	18	AtgO:29
+2	1.446	489	AtgO:2
+28	1.415	22	AtgO:28
+45	1.412	8	AtgO:45
+36	1.4	9	AtgO:36
+1	0	496	AtgO:1
